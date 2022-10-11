@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 50a3b9870e7991e4a9539e9dda1b8426
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - partikkeli: {fileID: 1682532982491669834, guid: 5d46ae2010ba6104bae03fd140e8e919,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

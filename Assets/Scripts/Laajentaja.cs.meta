@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: cca94b5fd078b6945946afe5b83947c9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - alusta: {fileID: 1453713071249950, guid: 47c86e8878cabec4db0eb18dae8d7c94, type: 3}
+  - timantti: {fileID: 1613304439394178, guid: d85da43e1d3cff243a9454678483e773, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
